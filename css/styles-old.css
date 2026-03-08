@@ -238,13 +238,7 @@ height: 56px;
 }
 .val-icon {
 }
-.heading-pr {
-  font-size: 36px;
-  line-height: 1.11;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-  margin-bottom: 72px;
-}
+
 .txt {
 }
 .team-social-list {
@@ -307,6 +301,13 @@ height: 56px;
 
 .cntr {
   text-align: center;
+}
+.heading-pr {
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  margin-bottom: 72px;
 }
 .portfolio-thumb {
   position: relative;
